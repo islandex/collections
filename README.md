@@ -2,8 +2,8 @@
 
 Collections project includes:
 
-Enumeration
-ICollection and IList Interfaces
-Arrays
-Lists
+*Enumeration<br />
+*ICollection and IList Interfaces<br />
+*Arrays<br />
+*Lists
 
