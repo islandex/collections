@@ -10,6 +10,8 @@ namespace Collections
     {
         static void Main(string[] args)
         {
+            Enum.Array();
+            Console.ReadKey();
         }
     }
 }
