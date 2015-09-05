@@ -1,6 +1,6 @@
 # collections
 
-Collections project includes:
+project includes:
 
 *Enumeration<br />
 *ICollection and IList Interfaces<br />
